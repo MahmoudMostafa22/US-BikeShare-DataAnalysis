@@ -1,0 +1,9 @@
+Some help i got from sites and libraries on specific functions and concepts through the code
+1) https://linuxhint.com/pandas-get-most-frequent-value/
+2) https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
+3) https://www.geeksforgeeks.org/how-to-fix-keyerror-in-pandas/
+4) https://stackoverflow.com/questions/30222533/create-a-day-of-week-column-in-a-pandas-dataframe-using-python
+5) https://stackoverflow.com/questions/9850954/pandas-get-most-recent-value-of-a-particular-column-indexed-by-another-column
+6) https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+also understood some concepts in python to use from 
+1) https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs
