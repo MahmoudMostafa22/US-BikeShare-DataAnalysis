@@ -10,6 +10,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 Months_list = ["january","february","march","april","may","june","all"]
 Days_list = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -62,7 +63,7 @@ def load_data(city, month, day):
     """
 
     #loading data
-    df = pd.read_csv(CITY_DATA[city])
+    df = pd.read_csv("{}".format(CITY_DATA[city]))
 
 
     # convert the Start Time column to datetime
